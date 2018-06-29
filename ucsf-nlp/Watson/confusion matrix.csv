@@ -1,0 +1,25 @@
+,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2,Unnamed: 2
+predicted,"atypical, atypical ductal hyperplasia, na","atypical, atypical lobular hyperplasia, na","atypical, fibroadenoma, na","atypical, flat epithelial atypia, na","atypical, phyllodes, na","benign, apocrine metaplasia, na","benign, cyst, na","benign, mastitis, na","benign, papilloma, na","benign, pseudoangiomatous stromal hyperplasia, na","benign, radial scar, na","benign, sclerosing adenosis, na","benign, usual ductal hyperplasia, na","breast cancer, in situ, ductal","breast cancer, in situ, lobular","breast cancer, invasive, ductal","breast cancer, invasive, lobular","breast cancer, invasive, na","breast cancer, na, ductal","breast cancer, na, na"
+gold,,,,,,,,,,,,,,,,,,,,
+"atypical, atypical ductal hyperplasia, na",6.0,,,1.0,,,,,,,,,,1.0,,,,,,
+"atypical, atypical lobular hyperplasia, na",,14.0,,,1.0,,,,,,,,,,,,,,,
+"atypical, fibroadenoma, na",,,29.0,,,,,,,,,,,,,,,,,
+"atypical, flat epithelial atypia, na",2.0,,,2.0,,,,,,,,,,,,,,,,
+"atypical, phyllodes, na",,,,,1.0,,,,,,,,,,,,,,,
+"benign, apocrine metaplasia, na",,,,,,9.0,,,1.0,,,,1.0,,,,,,,
+"benign, cyst, na",,,,,,1.0,22.0,,,,,,2.0,,,,,,,
+"benign, mastitis, na",,,,,,,,1.0,,,,,,,,,,,,
+"benign, papilloma, na",,,,,,,,,7.0,,,,,,,,,,,
+"benign, pseudoangiomatous stromal hyperplasia, na",,,,,,,,,,8.0,,,,,,,,,,
+"benign, radial scar, na",,,,,,,,,,,3.0,,,,,,,,,
+"benign, sclerosing adenosis, na",1.0,,,,,,,,,,1.0,2.0,2.0,,,,,,,
+"benign, usual ductal hyperplasia, na",,,,,,,,,1.0,,,,20.0,,,,,,,
+"breast cancer, in situ, ductal",,,,,,,,,,,,,,46.0,1.0,,,,,1.0
+"breast cancer, in situ, lobular",,2.0,,,,,,,,,,,,,3.0,,,,,
+"breast cancer, invasive, ductal",,,,,,,,,,,,,,1.0,,49.0,,,,
+"breast cancer, invasive, lobular",,,,,,,,,,,,,,,,,6.0,,,
+"breast cancer, invasive, na",,,,,,,,,,,,,,,,,,1.0,,
+"breast cancer, metastasis, na",,,,,,,,,,,,,,,,1.0,,,,
+"breast cancer, na, ductal",,,,,,,,,,,,,,,,,,,4.0,
+"breast cancer, na, lobular",,,,,,,,,,,,,,,,,,,,1.0
+"breast cancer, na, na",,,1.0,,,,,,,,,,,,,,,,,28.0
